@@ -48,7 +48,7 @@
  - Battery Holder 6xAA - Plug 5.5/2.1mm					
  - Gravity Αισθητήρας Ποιότητας Αέρα - PM2.5			
  - Gravity High Accuracy Temperature, Humidity, Pressure, Ambient Light and UV Sensor - I2C/UART							
- - Gravity Digital 1-to-8 I2C Multiplexer						8
+ - Gravity Digital 1-to-8 I2C Multiplexer					
  - Gravity Analog CO/Combustible Gas Sensor (MQ9)			
  - Gravity Analog LPG Gas Sensor (MQ5)					
  - Gravity Analog Sound Sensor					
