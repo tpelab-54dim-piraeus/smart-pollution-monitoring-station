@@ -12,10 +12,11 @@
  - να εξηγούν βασικές έννοιες ποιότητας αέρα και περιβαλλοντικού κινδύνου
 
 **Στόχοι δεξιοτήτων (STEM & Προγραμματισμός)**
- - να προγραμματίζουν αισθητήρες με το οπτικό περιβάλλον Mind+
+ - να προγραμματίζουν αισθητήρες και ενεργοποιητές με το οπτικό περιβάλλον Mind+
  - να χρησιμοποιούν μεταβλητές, συνθήκες και επαναλήψεις
  - να κατηγοριοποιούν τιμές σε επίπεδα (χαμηλή–μέτρια–υψηλή ρύπανση)
  - να δημιουργούν συστήματα ειδοποίησης (LED, buzzer)
+ - να μετατρέπουν δεδομένα αισθητήρων σε οπτικές ενδείξεις
 
 **Στάσεις – αξίες**
  - να αναπτύξουν οικολογική και κοινωνική συνείδηση
@@ -24,3 +25,18 @@
  - να συνεργαστούν δημιουργικά και με υπευθυνότητα μέσα στην ομάδα
 
 ## Εξοπλισμός
+ - DFRduino UNO R3 (Arduino Uno R3 Compatible)			
+ - Gravity IO Expansion Shield for Arduino V7.1			
+ - Battery Holder 6xAA - Plug 5.5/2.1mm					
+ - Gravity Αισθητήρας Ποιότητας Αέρα - PM2.5			
+ - Gravity High Accuracy Temperature, Humidity, Pressure, Ambient Light and UV Sensor - I2C/UART							
+ - Gravity Digital 1-to-8 I2C Multiplexer						8
+ - Gravity Analog CO/Combustible Gas Sensor (MQ9)			
+ - Gravity Analog LPG Gas Sensor (MQ5)					
+ - Gravity Analog Sound Sensor					
+ - Fermion SD3031 Precision RTC Module for Arduino		
+ - Gravity Digital RGB LED Module	x2				
+ - Gravity LCD Display 16x2 RGB I2C Module V2.0			
+ - Gravity DC Micro Metal Gear Motor w/Driver - 75:1			
+ - Gravity 130 DC Motor Module				
+ - Καλώδια, μπαταρίες, υλικά μακέτας 		
