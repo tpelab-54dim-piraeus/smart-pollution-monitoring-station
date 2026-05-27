@@ -57,4 +57,9 @@
  - Gravity LCD Display 16x2 RGB I2C Module V2.0			
  - Gravity DC Micro Metal Gear Motor w/Driver - 75:1			
  - Gravity 130 DC Motor Module				
- - Καλώδια, μπαταρίες, υλικά μακέτας 		
+ - Καλώδια, μπαταρίες, υλικά μακέτας
+
+## Υπεύθυνοι εκπαιδευτικοί
+ - Βαλλιάνος Βασίλειος ΠΕ86
+ - Κλωστράκη Γεωργία ΠΕ70 
+
